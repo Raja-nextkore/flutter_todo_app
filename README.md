@@ -1,6 +1,6 @@
 # flutter_todo_app
 
-A new Flutter project.
+flutter_todo_app its a very basic todo app that simply showes list of todos
 
 ## Getting Started
 
